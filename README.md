@@ -1,1 +1,1 @@
-A simple car renting system in go lang for understaning basics of go lang with unit test cases 
+A simple car renting system in lang for understanding the basics of lang with unit test cases 
